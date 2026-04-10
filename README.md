@@ -1,4 +1,4 @@
-# CPU Scheduling Simulator
+ CPU Scheduling Simulator
 
 This project implements CPU Scheduling Algorithms:
 
@@ -7,21 +7,22 @@ This project implements CPU Scheduling Algorithms:
 3. Round Robin (RR)
 4. Shortest Remaining Time First (SRTF)
 
-## Input
+ Input
 - Process ID
 - Arrival Time
 - Burst Time
 
-## Output
+ Output
 - Waiting Time
 - Turnaround Time
 - Gantt Chart
 
-## Algorithms
+ Algorithms
 - FCFS
 - SJF
 - Round Robin
 - SRTF (Preemptive SJF)
 
-## Author
-Your Name
+Author
+B.Nehasri
+24MIP10182
