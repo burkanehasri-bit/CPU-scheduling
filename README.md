@@ -29,6 +29,7 @@ Compute completion time
 Compute waiting time
 Compute turnaround time
 FCFS Code (Python):
+
 # FCFS Scheduling
 
 n = int(input("Enter number of processes: "))
@@ -66,6 +67,7 @@ Execute shortest job first
 Compute waiting time
 Compute turnaround time
 SJF Code
+
 # SJF Scheduling
 
 n = int(input("Enter number of processes: "))
@@ -96,6 +98,7 @@ for i in range(n):
 print("\nProcess Waiting Turnaround")
 for i in range(n):
     print(pid[i],"\t",waiting[i],"\t",turnaround[i])
+
 Round Robin (RR)
 Information:
 Each process gets time quantum
@@ -107,6 +110,7 @@ Execute process for quantum
 Remaining time → queue
 Repeat until complete
 Round Robin Code
+
 # Round Robin Scheduling
 
 n = int(input("Enter number of processes: "))
